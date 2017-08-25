@@ -1,21 +1,16 @@
 # -*- coding: utf-8 -*-
 
 {
-    'name' : 'Importacion de Modulos',
+    'name' : 'Actualizacion de Modulos',
     'author': 'Gabriel Lopez Alarcon',
     'version' : '1',
     'summary': '',
     'sequence': 30,
     'description': """
 
--Para que el Moduklos funciones correctamente deentro de una terminarl se debe instalar la libreria screen con el siguiente comando:
-
-sudo apt-get install screen
-
-
     """,
-    'category': '',
-    'website': '',
+    'category': 'Actualizaciones',
+    'website': 'http://www.argil.mx/',
     'images' : [],
     'depends' : ['base',],
     'data': [
